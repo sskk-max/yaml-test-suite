@@ -9,7 +9,7 @@
     %YAML 1.2
     ---
     scalar2
-  tree: |
+  tree: |tree123
     +STR
      +DOC ---
       =VAL :scalar1
